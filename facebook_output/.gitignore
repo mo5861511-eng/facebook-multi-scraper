@@ -1,16 +1,14 @@
-*
-!.gitignore
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.deb
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
 
-# Images #
-##########
-*.png
-
-# Slideshows #
-#############
-*.pptx
-*.ppt
-
-# Spreadsheets #
-###############
-*.csv
-
+pkg/
+src/
